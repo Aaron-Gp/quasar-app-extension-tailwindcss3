@@ -1,0 +1,38 @@
+{
+  "name": "@bitnp/quasar-app-extension-tailwindcss3",
+  "version": "0.0.1",
+  "description": "modified from https://github.com/risha700/quasar-app-extension-tailwindcss-3",
+  "author": "Aaron Gao <aaron.gp.personal@gmail.com>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "quasar",
+    "quasar framework",
+    "extension",
+    "tailwind",
+    "tailwindcss",
+    "app extension"
+  ],
+  "bugs": "",
+  "homepage": "",
+  "engines": {
+    "node": ">= 12.2.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "inquirer": "^9.2.10",
+    "postcss": "^8.4.27"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
